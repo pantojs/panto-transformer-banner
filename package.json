@@ -1,6 +1,6 @@
 {
   "name": "panto-transformer-banner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Banner transformer for panto",
   "main": "index.js",
   "scripts": {
@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/pantojs/panto-transformer-banner",
   "dependencies": {
-    "panto-transformer": "^0.2.2"
+    "panto-transformer": "^0.2.4"
   },
   "devDependencies": {
-    "panto": "0.0.28",
+    "panto": "0.0.30",
     "coveralls": "^2.11.9",
     "mocha": "^2.5.3",
     "mocha-lcov-reporter": "^1.2.0",
